@@ -11,7 +11,6 @@ import Services from './components/Services';
 import AppointmentForm from './components/AppointmentForm';
 import Reviews from './components/Reviews';
 import LocationHours from './components/LocationHours';
-import SeoDashboard from './components/SeoDashboard';
 import Footer from './components/Footer';
 
 export default function App() {
@@ -108,8 +107,6 @@ export default function App() {
           isClinicOpen={clinicOpenState.isOpen}
           nextOpeningText={clinicOpenState.nextOpening}
         />
-        
-        <SeoDashboard />
       </main>
 
       {/* Footer & Floating Triggers */}

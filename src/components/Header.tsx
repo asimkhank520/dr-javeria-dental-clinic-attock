@@ -30,8 +30,7 @@ export default function Header({ currentDay, isClinicOpen, nextOpeningText }: He
     { label: 'Services', href: '#services' },
     { label: 'Appointment', href: '#appointment' },
     { label: 'Reviews', href: '#reviews' },
-    { label: 'Location & Hours', href: '#location-hours' },
-    { label: 'SEO Preview', href: '#seo-dashboard' }
+    { label: 'Location & Hours', href: '#location-hours' }
   ];
 
   return (
