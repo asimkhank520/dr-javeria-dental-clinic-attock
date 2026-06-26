@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Javeria Dental Clinic",
+  "description": "Professional website for Dr. Javeria Dental Clinic in Attock, offering quality dental treatments, hours of operation, contact information, and easy appointment requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
